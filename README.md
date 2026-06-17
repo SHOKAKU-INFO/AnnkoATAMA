@@ -1,8 +1,5 @@
 # welcome!
 
-<div align="center">
-    <a align="center" href="https://shokaku.info">shokaku.info</a>
-</div>
 
 ## GitHub Stats🐎
 <p align="center">
